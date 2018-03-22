@@ -1,7 +1,7 @@
 # jpg2latex
 ![jpg2latex](https://github.com/droudy/jpg2latex/blob/master/README_img.png "jpg2latex")
 
-jpg2latex is a python library created for easily converting images of compiled latex equations into latex source. 
+jpg2latex is a python library created for easily converting screenshots of compiled latex equations into latex source. 
 
 ---
 
